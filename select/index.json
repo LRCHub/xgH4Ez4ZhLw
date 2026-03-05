@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "コノユビトマレ instrumental",
+  "base_artist": "JUNNA",
+  "createdAt": "2026-03-05T01:15:16.442353Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "コノユビトマレ",
+      "artist": "Suga Shikao",
+      "has_synced": false,
+      "path": "select/01_コノユビトマレ_Suga_Shikao.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "コノユビトマレ",
+      "artist": "Suga, Shikao",
+      "has_synced": false,
+      "path": "select/02_コノユビトマレ_Suga,_Shikao.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "コノユビトマレ",
+      "artist": "JUNNA",
+      "has_synced": true,
+      "path": "select/03_コノユビトマレ_JUNNA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "コノユビトマレ",
+      "artist": "スガシカオ",
+      "has_synced": false,
+      "path": "select/04_コノユビトマレ_スガシカオ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "コノユビトマレ instrumental",
+      "artist": "JUNNA",
+      "has_synced": true,
+      "path": "select/05_コノユビトマレ_instrumental_JUNNA.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "コノユビトマレ(積水ハウス シャーメゾン TVCMソング)",
+      "artist": "スガシカオ",
+      "has_synced": false,
+      "path": "select/06_コノユビトマレ(積水ハウス_シャーメゾン_TVCMソング)_スガシカオ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "コノユビトマレ-20×20 ver.-",
+      "artist": "Junna",
+      "has_synced": false,
+      "path": "select/07_コノユビトマレ-20×20_ver.-_Junna.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "コノユビトマレ",
+      "artist": "JUNNA",
+      "has_synced": false,
+      "path": "select/pl_01_コノユビトマレ_JUNNA.txt"
+    }
+  ]
+}
